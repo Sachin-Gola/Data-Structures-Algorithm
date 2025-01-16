@@ -1,4 +1,4 @@
-package java01;
+
 
 class A{
 	public void meth1() {

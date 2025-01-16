@@ -1,4 +1,4 @@
-package java01;
+
 
 class Arrays{
 	void demoArrays(){
